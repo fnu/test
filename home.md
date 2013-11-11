@@ -1,2 +1,2 @@
 
-[test](test.md)
+[test-home](test/home.md)
